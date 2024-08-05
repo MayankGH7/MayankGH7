@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Mayank Yadav 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=MayankGH7&color=blue)
 
 ### About Me
 
