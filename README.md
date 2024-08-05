@@ -32,6 +32,8 @@ I'm a **Computer Science Major** and a **Full Stack Developer** with a deep pass
 - Htmx
 - Express.js
 - PHP
+- HTML5
+- CSS3
 
 **Databases:**
 - PostgreSQL
