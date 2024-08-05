@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Mayank Yadav 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
 ### About Me
 
 I'm a **Computer Science Major** and a **Full Stack Developer** with a deep passion for Linux and web development. I love exploring new technologies and constantly learning new tools and utilities, especially in the Linux ecosystem.
@@ -48,9 +50,11 @@ I'm a **Computer Science Major** and a **Full Stack Developer** with a deep pass
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
-### 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Gmail](mailto:mayankrao576@gmail.com)
+## 📞 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mayank-yadav-9ab5531b8/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:mayankrao576@gmail.com)
+
 
 ### 😄 Pronouns:
 He/Him
