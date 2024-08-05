@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Mayank Yadav 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=MayankGH7&color=blue)
-
 ### About Me
 
 I'm a **Computer Science Major** and a **Full Stack Developer** with a deep passion for Linux and web development. I love exploring new technologies and constantly learning new tools and utilities, especially in the Linux ecosystem.
