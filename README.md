@@ -29,10 +29,9 @@ I'm a **Computer Science Major** and a **Full Stack Developer** with a deep pass
 
 **Web Development:**
 - Django
-- Node.js
+- Htmx
 - Express.js
 - PHP
-- 
 
 **Databases:**
 - PostgreSQL
@@ -42,13 +41,14 @@ I'm a **Computer Science Major** and a **Full Stack Developer** with a deep pass
 
 **Tools & Platforms:**
 - Docker
-- Termux
+- Termux ( Linux terminal emulator on Android )
 - Arch Linux
 - Kali Linux
 - Vim
 
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [Gmail](mayankrao576@gmail.com)
 
 ### 😄 Pronouns:
 He/Him
