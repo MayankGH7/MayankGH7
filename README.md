@@ -48,7 +48,7 @@ I'm a **Computer Science Major** and a **Full Stack Developer** with a deep pass
 
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Gmail](mayankrao576@gmail.com)
+- <a href="mailto:mayankrao576@gmail.com">Gmail</a>
 
 ### 😄 Pronouns:
 He/Him
