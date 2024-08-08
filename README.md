@@ -26,6 +26,7 @@ I'm a **Computer Science Major** and a **Full Stack Developer** with a deep pass
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+[![Brainfuck](https://img.shields.io/badge/Brainfuck-000000?style=for-the-badge&logo=brainfuck&logoColor=white)](https://esolangs.org/wiki/Brainfuck)
 
 ### Web Development:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
