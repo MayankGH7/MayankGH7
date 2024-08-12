@@ -49,6 +49,7 @@ I'm a **Computer Science Major** and a **Full Stack Developer** with a deep pass
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 ![Neon](https://img.shields.io/badge/-Neon-00F3A3?style=flat-square&logo=neon)
 ![CockroachDB](https://img.shields.io/badge/-CockroachDB-6933FF?style=flat-square&logo=cockroachlabs)
 
