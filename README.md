@@ -1,17 +1,3 @@
-<!--
-**MayankGH7/MayankGH7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there, I'm Mayank Yadav 👋
 
 ### About Me
@@ -19,8 +5,6 @@ Here are some ideas to get you started:
 I'm a Full Stack Developer and Data Science Intern at Chemarc, actively working on real-world problems using ML & DL. Currently diving deep into machine learning and deep learning through a hands-on research project.
 
 I'm a Linux power user (Arch btw 😎), and I love customizing and optimizing my workflow using Hyprland, Wayland tools, and all things open source.
-
-Former Tech Lead at GDG Hansraj, where I led dev projects, organized tech events, and mentored juniors. Currently pursuing a B.Sc. in Computer Science at Hansraj College, DU.
 
 I enjoy building clean, performant systems — whether it's a backend API, a full-stack web app, or a rice'd desktop setup. Always experimenting, always learning.
 
@@ -31,10 +15,6 @@ Full Stack Web Dev (React, Node, Next.js, MongoDB)
 ML/DL (Python, Scikit-learn, TensorFlow, NumPy, pandas)
 
 Linux (Arch, Hyprland, shell scripting)
-
-
-Let's connect if you vibe with tech, open source, or clean rice.
-
 
 ## 🚀 Skills & Technologies
 
