@@ -74,9 +74,6 @@ Linux (Arch, Hyprland, shell scripting)
 ### Most Used Languages: 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankgh7&layout=compact&theme=tokyonight)
 
-### PR & Commits
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankgh7&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
-
 
 ## 📞 Contact
 
