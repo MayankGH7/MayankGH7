@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a Full Stack Developer and Data Science Intern at Chemarc, actively working on real-world problems using ML & DL. Currently diving deep into machine learning and deep learning through a hands-on research project.
+I'm a Full Stack Developer and AI Engineer, actively working on real-world problems using ML & DL. Currently diving deep into machine learning and deep learning through a hands-on research project.
 
 I'm a Linux power user (Arch btw 😎), and I love customizing and optimizing my workflow using Hyprland, Wayland tools, and all things open source.
 
