@@ -75,13 +75,6 @@ Linux (Arch, Hyprland, shell scripting)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mayank-yadav-9ab5531b8/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:mayankrao576@gmail.com)
 
-
-### 😄 Pronouns:
-He/Him
-
-### 🌱 Currently Learning
-I'm currently building a project in django and diving deeper into Linux, learning about new tools and utilities to enhance my development workflow.
-
 ### ⚡ Fun Fact
 When I'm not coding, you can find me tweaking my Linux setup or exploring new open-source projects.
 
