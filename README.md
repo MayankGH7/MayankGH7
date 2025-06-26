@@ -68,6 +68,11 @@ Linux (Arch, Hyprland, shell scripting)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)
 
+Github Stats: 
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankgh7&show_icons=true&theme=tokyonight)
+
+Most Used Languages: 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankgh7&layout=compact&theme=tokyonight)
 
 
 ## 📞 Contact
